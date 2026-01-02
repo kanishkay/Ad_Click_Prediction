@@ -6,9 +6,8 @@
 
 ## 📁 Project Structure
 
-* `ad_click_analysis.py`: Main script containing data exploration, visualizations, and Logistic Regression implementation.
+* `ad_click_analysis.ipynb`: Main script containing data exploration, visualizations, and Logistic Regression implementation.
 * `advertising.csv`: Dataset including user demographics, browsing habits, and ad details.
-* `requirements.txt`: Python dependencies required to run the project.
 
 ## 📈 Key Insights
 

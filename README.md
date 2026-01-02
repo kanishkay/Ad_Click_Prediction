@@ -1,8 +1,10 @@
-# 🎯 Logistic Regression Ad Click Predictor
+# 🎯  Ad Click Predictor (Logistic Regression)
 
 📊 A machine learning project focused on predicting user interactions (clicks) with online advertisements based on demographic, behavioral, and contextual data.
 
 **Dataset Overview**: This dataset captures user behavior and online ad interactions, ideal for binary classification tasks. The goal is to improve ad targeting strategies and optimize placements.
+
+**Dataset Source**: [Advertisement Click on Ad Dataset (Kaggle)](https://www.kaggle.com/datasets/gabrielsantello/advertisement-click-on-ad)
 
 ## 📁 Project Structure
 
